@@ -1,5 +1,5 @@
-# gdwg
-Implementing a general directed weighted graph in C++
+# GraphGravity
+Implementing a general directed weighted graph (GDWG) in C++
 
 The implementation file is in `include/gdwg/graph.hpp`.
 
